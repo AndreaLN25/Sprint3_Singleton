@@ -11,6 +11,9 @@ $tigger2 = Tigger::getInstance();
 $tigger2->roar();
 
 
+echo "Los tigres han hecho ruido ".tigger::getCounter()." veces."
+
+
 
 ?>
 
